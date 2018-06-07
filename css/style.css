@@ -1,0 +1,29 @@
+/* HEADER */
+.header {
+	padding: 15px 0;
+	background-color: LightSteelBlue ;
+}
+.header h1 {
+	color: DarkSlateGrey   ;
+	text-align: center;
+}
+/* MAIN */
+.main {
+	padding: 15px 0;
+	background-color: white ;
+}
+.main h2 {
+	color: DarkSlateGrey   ;
+	text-align: center;
+}
+
+/* FOOTER */
+.footer {
+	background-color: LightSteelBlue;
+	padding: 15px 0;
+	margin-top: 30px;
+}
+.footer h3 {
+	color: DarkSlateGrey   ;
+	text-align: center;
+}
